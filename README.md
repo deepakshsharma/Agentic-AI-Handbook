@@ -54,7 +54,7 @@ I am especially interested in opportunities involving:
 | 💼 LinkedIn | [mohamedrasikr](https://www.linkedin.com/in/mohamedrasikr/) |
 | 🌐 Website | [mohamedrasik.space](https://mohamedrasik.space) |
 | ✉️ Email | [contact@mohamedrasik.space](mailto:contact@mohamedrasik.space) |
-| 📱 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918072056055?text=Hi%20Mohamed%2C%20I%20came%20across%20your%20Agentic%20AI%20Handbook%20and%20would%20like%20to%20connect%20regarding%20a%20GenAI%2FAgentic%20AI%20development%2C%20collaboration%2C%20or%20speaking%20opportunity.) |
+| 📱 Message me in whatsapp |[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918072056055?text=Hi%20Mohamed%2C%20I%20came%20across%20your%20Agentic%20AI%20Handbook%20and%20would%20like%20to%20connect%20regarding%20a%20GenAI%2FAgentic%20AI%20development%2C%20collaboration%2C%20or%20speaking%20opportunity.) |
 
 ### 🎤 Talk / Workshop Topics
 
