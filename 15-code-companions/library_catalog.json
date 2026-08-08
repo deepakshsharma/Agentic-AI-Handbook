@@ -1,0 +1,278 @@
+{
+  "generated_at": "2026-08-04",
+  "python": "3.10+",
+  "conventions": {
+    "cli": "argparse",
+    "structured_validation": "pydantic",
+    "remote_examples": "support --dry-run where practical",
+    "secrets": "environment variables only"
+  },
+  "libraries": [
+    {
+      "name": "pydantic",
+      "purpose": "Typed contracts, validation, JSON Schema",
+      "topics": [
+        "prompts",
+        "tools",
+        "state",
+        "context",
+        "APIs",
+        "evaluation"
+      ]
+    },
+    {
+      "name": "numpy",
+      "purpose": "Array operations and metrics",
+      "topics": [
+        "ML",
+        "embeddings",
+        "evaluation",
+        "performance"
+      ]
+    },
+    {
+      "name": "pandas",
+      "purpose": "Tabular analysis and product experiments",
+      "topics": [
+        "product management",
+        "evaluation",
+        "observability"
+      ]
+    },
+    {
+      "name": "scikit-learn",
+      "purpose": "Classical ML, TF-IDF, metrics, splitting",
+      "topics": [
+        "ML",
+        "retrieval baselines",
+        "evaluation"
+      ]
+    },
+    {
+      "name": "torch",
+      "purpose": "Neural networks and tensor computation",
+      "topics": [
+        "deep learning",
+        "transformers"
+      ]
+    },
+    {
+      "name": "transformers",
+      "purpose": "Pretrained transformer models and generation",
+      "topics": [
+        "LLMs",
+        "tokenization",
+        "generation"
+      ]
+    },
+    {
+      "name": "openai",
+      "purpose": "Responses API and structured generation",
+      "topics": [
+        "LLMs",
+        "prompting",
+        "tools"
+      ]
+    },
+    {
+      "name": "openai-agents",
+      "purpose": "Managed agent loop, tools, handoffs, sessions, guardrails, tracing",
+      "topics": [
+        "agents",
+        "orchestration",
+        "harnesses"
+      ]
+    },
+    {
+      "name": "sentence-transformers",
+      "purpose": "Embedding models",
+      "topics": [
+        "RAG",
+        "semantic search"
+      ]
+    },
+    {
+      "name": "faiss-cpu",
+      "purpose": "Efficient vector similarity search",
+      "topics": [
+        "RAG",
+        "vector indexes"
+      ]
+    },
+    {
+      "name": "chromadb",
+      "purpose": "Persistent vector collections",
+      "topics": [
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "name": "llama-index",
+      "purpose": "Context augmentation, indexes, agents, workflows",
+      "topics": [
+        "RAG",
+        "agents"
+      ]
+    },
+    {
+      "name": "langgraph",
+      "purpose": "Stateful graph workflows and loops",
+      "topics": [
+        "agents",
+        "orchestration",
+        "loop engineering"
+      ]
+    },
+    {
+      "name": "langchain",
+      "purpose": "Agent construction, tools, middleware, structured output",
+      "topics": [
+        "dynamic tool routing"
+      ]
+    },
+    {
+      "name": "crewai",
+      "purpose": "Role-based crews and flows",
+      "topics": [
+        "multi-agent systems"
+      ]
+    },
+    {
+      "name": "autogen-agentchat",
+      "purpose": "Conversational agents and teams",
+      "topics": [
+        "multi-agent systems"
+      ]
+    },
+    {
+      "name": "google-adk",
+      "purpose": "Agents, tools, sessions, workflows, evaluation",
+      "topics": [
+        "modern agent SDKs"
+      ]
+    },
+    {
+      "name": "semantic-kernel",
+      "purpose": "Enterprise agents, plugins, orchestration",
+      "topics": [
+        "modern agent SDKs"
+      ]
+    },
+    {
+      "name": "dspy",
+      "purpose": "Typed LM programs and prompt optimization",
+      "topics": [
+        "prompting",
+        "ReAct",
+        "evaluation"
+      ]
+    },
+    {
+      "name": "mcp",
+      "purpose": "Standard tools, resources, and prompts",
+      "topics": [
+        "interoperability",
+        "context"
+      ]
+    },
+    {
+      "name": "a2a-sdk",
+      "purpose": "Agent cards, messages, tasks, and agent collaboration",
+      "topics": [
+        "interoperability",
+        "multi-agent"
+      ]
+    },
+    {
+      "name": "ragas",
+      "purpose": "RAG and agent evaluation metrics",
+      "topics": [
+        "evaluation"
+      ]
+    },
+    {
+      "name": "deepeval",
+      "purpose": "LLM application tests and metrics",
+      "topics": [
+        "evaluation"
+      ]
+    },
+    {
+      "name": "opentelemetry-sdk",
+      "purpose": "Portable traces and metrics",
+      "topics": [
+        "observability",
+        "operations"
+      ]
+    },
+    {
+      "name": "fastapi",
+      "purpose": "Typed production APIs",
+      "topics": [
+        "application layer",
+        "deployment"
+      ]
+    },
+    {
+      "name": "httpx",
+      "purpose": "Async HTTP clients and API testing",
+      "topics": [
+        "tools",
+        "A2A",
+        "FastAPI testing"
+      ]
+    },
+    {
+      "name": "networkx",
+      "purpose": "Graph analysis and cycle detection",
+      "topics": [
+        "multi-agent",
+        "loop engineering"
+      ]
+    },
+    {
+      "name": "scipy",
+      "purpose": "Statistical tests and optimization",
+      "topics": [
+        "experimentation",
+        "evaluation"
+      ]
+    },
+    {
+      "name": "tiktoken",
+      "purpose": "Tokenizer-aware context and prompt budget estimation",
+      "topics": [
+        "context engineering",
+        "prompting",
+        "LLM operations"
+      ]
+    },
+    {
+      "name": "typer",
+      "purpose": "Typed command-line applications",
+      "topics": [
+        "scenario runners",
+        "interview practice",
+        "developer tooling"
+      ]
+    },
+    {
+      "name": "rich",
+      "purpose": "Readable terminal tables and reports",
+      "topics": [
+        "developer UX",
+        "architecture practice",
+        "operations"
+      ]
+    },
+    {
+      "name": "uvicorn",
+      "purpose": "ASGI server for FastAPI applications",
+      "topics": [
+        "application services",
+        "deployment"
+      ]
+    }
+  ]
+}

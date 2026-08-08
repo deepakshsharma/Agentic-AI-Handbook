@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-08-04",
+  "milestone": "engineering disciplines and executable library expansion",
+  "chapters": 48,
+  "python_files": 77,
+  "mermaid_diagrams": 814,
+  "library_companion_scripts": 25,
+  "mapped_topic_scenarios": 48,
+  "new_research_and_engineering_chapters": 5,
+  "new_chapter_words": 12948,
+  "validation_report": "15-code-companions/expansion_validation_report.json",
+  "execution_tests": {
+    "chapters_44_to_48": "passed",
+    "scenario_runner_44_to_48": "passed",
+    "all_python_syntax": "passed",
+    "selected_local_library_examples": [
+      "scikit-learn",
+      "PyTorch",
+      "pandas/SciPy",
+      "Pydantic",
+      "Typer/Rich",
+      "NetworkX"
+    ],
+    "remote_library_examples": "dry-run validated where supported",
+    "container_stack": "not executed in this milestone"
+  }
+}
