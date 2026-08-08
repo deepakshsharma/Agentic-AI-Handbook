@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Agentic AI Handbook"
+message: "If you use, reference, teach from, or adapt this handbook, please credit the creator."
+type: book
+authors:
+  - family-names: "Rasik"
+    given-names: "Mohamed"
+url: "https://mohamedrasik.space"
+repository-code: ""
+abstract: "A practical engineering handbook covering LLM foundations, RAG, agentic systems, multi-agent architectures, safety, evaluation, interoperability, context engineering, harness engineering, loop engineering, deployment, and emerging research directions."
+keywords:
+  - agentic-ai
+  - generative-ai
+  - rag
+  - multi-agent-systems
+  - context-engineering
+  - ai-agents
+contact:
+  email: "contact@mohamedrasik.space"
