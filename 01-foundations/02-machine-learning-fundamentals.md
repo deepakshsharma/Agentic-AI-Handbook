@@ -645,7 +645,7 @@ F1 is the harmonic mean of precision and recall. It is useful as a compact summa
 
 Specificity measures the proportion of actual negatives correctly identified.
 
-### 9.7 ROC-AUC and PR-AUC
+### 9.7 ROC-AUC and PR-AUC (https://mljourney.com/roc-auc-vs-pr-auc-key-differences-and-when-to-use-each/)
 
 **ROC-AUC** measures ranking quality across thresholds. It can appear optimistic under severe class imbalance.
 
